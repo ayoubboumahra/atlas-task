@@ -23,7 +23,6 @@ List the prerequisites for running the project, such as:
 
    ```bash
    git clone https://github.com/ayoubboumahra/atlas-task.git
-Install PHP dependencies:
 
 2. Install PHP dependencies:
     ```bash
